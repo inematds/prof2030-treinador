@@ -44,7 +44,7 @@
          "exemplo": {"rot": "Retorno", "texto": "Revisão nível 3: achou os 3 erros. Para chegar ao 4, escreva a regra que evitaria o desconto errado."}},
         {"titulo": "Campeão interno", "sub": "nome próprio, não cargo",
          "texto": ["É quem olha o uso todo dia, junta as dúvidas e leva ao retorno semanal. Bom campeão: está na casa há mais de um ano, tem tempo reservado na agenda, quer o papel (dito por ele) e tem autoridade para ajustar.", "Campeão errado: quem vai sair em poucos meses, quem já tem funções demais, quem foi escalado sem ser consultado."],
-         "exemplo": {"rot": "Na Horizonte", "texto": "Juliana é gestora do atendimento; o campeão pode ser um atendente sênior que tirou nível 3 ou 4 na prova."}},
+         "exemplo": {"rot": "Na Horizonte", "texto": "A Juliana usa o agente e os resumos todo dia: é candidata natural, se quiser o papel e tiver tempo na agenda. Ou um atendente sênior que tirou nível 3 ou 4 na prova."}},
         {"titulo": "Retorno semanal", "sub": "15 a 20 minutos, hora fixa",
          "texto": ["Mesmo dia e hora toda semana. Pauta fixa: números da semana, dúvidas do registro, uma melhoria e a próxima data.", "Dúvida que aparece 3 vezes vira microvídeo de 3 a 4 minutos ou uma linha no guia de 1 página."],
          "exemplo": {"rot": "Pauta", "texto": "5 min números · 10 min dúvidas e ajustes · 5 min próxima semana."}},

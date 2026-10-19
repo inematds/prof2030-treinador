@@ -96,7 +96,7 @@
         "medo": {
           "cliente": "No fim, a ideia é diminuir a equipe, né?",
           "opcoes": [
-            {"t": "Não sei o que a empresa vai decidir e não vou prometer nada. O que vi hoje é que alguém precisa conferir o que a IA escreve, e você fez isso melhor que todos. Sobre planos da equipe, a Juliana pode responder.", "vai": "compromisso", "nota": 2,
+            {"t": "Não sei o que a empresa vai decidir e não vou prometer nada. O que vi hoje é que alguém precisa conferir o que a IA escreve, e você fez isso melhor que todos. Sobre planos da equipe, quem responde é o Carlos, o dono.", "vai": "compromisso", "nota": 2,
              "comenta": "Honesto e no seu papel: você não prometeu o que não controla, mostrou o valor dele e passou a pergunta de gestão a quem responde por ela."},
             {"t": "Imagina, ninguém vai ser demitido.", "vai": "compromisso", "nota": 0,
              "comenta": "Promessa que você não pode cumprir. Se algo mudar, a sua credibilidade e a do treinamento acabam juntas."},
@@ -122,7 +122,7 @@
         "fim-morno": {"fim": true, "titulo": "Boa aula, nenhum hábito",
           "texto": "A sala gostou e o Sérgio mudou de opinião, mas ninguém combinou o que fazer. Em duas semanas, o atendimento está igual a antes."},
         "fim-cedo": {"fim": true, "titulo": "Bom candidato, convite apressado",
-          "texto": "O Sérgio desconfia do convite e recua. Campeão se escolhe com critério (aula 7): use, mostre resultado e então converse com ele e com a Juliana."},
+          "texto": "O Sérgio desconfia do convite e recua. Campeão se escolhe com critério (aula 7): use, mostre resultado e então converse com ele e com o Carlos."},
         "fim-bom": {"fim": true, "titulo": "O cético virou o revisor da equipe",
           "texto": "Você usou a dúvida dele como exercício, mediu em vez de prometer, reconheceu o achado e saiu com compromisso e data. Na quinta, ele traz os 2 casos e é quem explica aos colegas o que conferir."}
       },

@@ -9,6 +9,7 @@ When I correct you, or you catch yourself making a mistake: before continuing, a
 
 ## Lessons
 
+- Diagrama: título de nó que começa com dígito ("90 dias") perde o número da etapa; e mais de 6 nós no estilo fluxo amontoa no desktop (19/10/2026).
 - Tradução de bloco de código: o detector de linha de comando tem de casar palavra inteira; "Entregue" → "Deliver" virava o comando `del` e a tradução era recusada 3 vezes (19/10/2026).
 - `mapa` com mais de 4 degraus espreme as colunas no desktop: use 4 degraus (as entregas principais) e deixe o `gerador` listar todas as aulas (19/10/2026).
 - Copie o motor para o curso de novo depois de qualquer ajuste no motor: o `novo-curso.sh` copia uma vez só, e o curso piloto ficou com o rótulo antigo da simconversa (19/10/2026).
