@@ -282,6 +282,11 @@
           "t": "Comissão Europeia: perguntas e respostas sobre letramento em IA",
           "href": "https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers",
           "icone": "escudo"
+        },
+        {
+          "t": "Laboratório Horizonte: Painel de indicadores (F11)",
+          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "icone": "lupa"
         }
       ]
     }
